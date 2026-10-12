@@ -57,3 +57,4 @@ int zad3()
 
     return 0;
 }
+ 
